@@ -13,7 +13,6 @@ Scrambles HTML code so it is impossible to follow.
 
 You can easily install and run the source code, but make sure you have the libraries in place for it to work:
 ```bash
-pip install pyglet
 pip install customtkinter
 ```
 > Or you can install the compiled version of Uglifier.
