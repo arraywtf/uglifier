@@ -57,7 +57,7 @@ title_label = ctk.CTkLabel(window, text="Still in development. \nEver wanted to 
 title_label.pack(pady=20)
 
 
-select_button = ctk.CTkButton(window, text="Select HTML File", font=ctk.CTkFont("Satoshi", 14),command=select_html_file)
+select_button = ctk.CTkButton(window, text="Select HTML File", font=ctk.CTkFont("Arial", 14),command=select_html_file)
 select_button.pack(pady=10)
 
 title_label = ctk.CTkLabel(window, text="developed by array", font=ctk.CTkFont("Arial", 10, "bold"))
